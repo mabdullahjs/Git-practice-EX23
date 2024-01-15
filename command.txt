@@ -1,0 +1,22 @@
+
+git download krna ka foran baad:
+
+git config --global user.name "your_github_username"
+git config --global user.email "your_github_email"
+
+
+
+github pa folder banana ka baad us folder ka url copy krna ha
+cmd ka undar jaka ya command likhni ha:
+
+git clone url
+
+
+
+
+code track krna ki or push krna ki commands:
+
+git status ===== phuppo
+git add .
+git commit -m"commit_message"
+git push origin main
